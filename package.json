@@ -1,0 +1,30 @@
+{
+  "name": "daftarche",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "arashrasoulzadeh",
+  "contributors": [],
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "description": "WebApi for diary application , author : arashrasoulzadeh@gmail.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/arashrasoulzadeh/DiaryAPi.git"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/arashrasoulzadeh/DiaryAPi/issues"
+  },
+  "homepage": "https://github.com/arashrasoulzadeh/DiaryAPi#readme"
+}
